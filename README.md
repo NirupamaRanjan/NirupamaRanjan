@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NirupamaRanjan
 - 👀 Interested in web devlopment and app development.
-- 🌱 currently learning react and react native.
+- 🌱 currently learning full stack development.
 - 💞️ looking to collaborate on awesome projects.
 - 📫 Reach me through nirupamaranjan2414@gmail.com
 
